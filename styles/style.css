@@ -1,0 +1,87 @@
+html {
+  font-size: 15px; 
+  font-family: 'Aboreto', cursive; 
+  Color:black;
+  text-align: center;
+}
+
+
+Html {
+  width: 600px;
+  margin: 0 auto;
+ 
+  padding: 0 100px 20px 20px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+
+
+#mi, img[src] {
+	color: #336DA7;
+	width: 800x;
+	border: 1px solid black;
+	
+}
+
+img[src] {
+	color: #336DA7;
+	width: 200px;
+	border: 1px solid black;
+}
+
+a:hover
+{
+	color: red;
+	width: 700px;
+	border: 10px solid black;
+}
+
+h1:hover
+{
+	color: red;
+	
+	text-align: center;
+	
+} 
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+
+  margin: 10;
+  padding: 20px 0;
+
+  
+}
+
+
+/*
+html {
+  background-color: #F3F7FB;
+}*/
+
+
+
+li {
+
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 3px;
+}
